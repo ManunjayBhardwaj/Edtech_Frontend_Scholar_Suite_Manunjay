@@ -23,5 +23,5 @@ To run the Scholar Suite project locally:
    ```bash
    git clone https://github.com/yourusername/scholar-suite.git
 ## To visit the website use the link:
-'''https://scholarsuite.netlify.app/home
+https://scholarsuite.netlify.app/home
 
